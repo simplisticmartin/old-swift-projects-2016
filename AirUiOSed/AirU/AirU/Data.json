@@ -1,0 +1,42 @@
+ [
+  {
+  "monthly_price": NaN,
+  "name": "Wonderful Apartment at Columbia Uni",
+  "price": "$160.00",
+  "longitude": -73.96179096978123,
+  "summary": "Two bed rooms apartment fully furnished at the heart of Columbia University. Great and warm home in great location. Next to the 1 train station.",
+  "latitude": 40.80608549068224,
+  "weekly_price": NaN,
+  "id": 10660533
+  },
+  {
+  "monthly_price": "$2,217.00",
+  "name": "Spacious Riverside Drive Apt",
+  "price": "$107.00",
+  "longitude": -73.963802851462,
+  "summary": "Large 1BR/1BA apt on the Upper West Side directly across the street from Riverside Park. One block from Columbia University and the subway. Bike the Hudson Greenway. Close to museums, great restaurants and Central Park. Doorman after 4pm. HBO&netflix",
+  "latitude": 40.80883465837568,
+  "weekly_price": "$627.00",
+  "id": 9795124
+  },
+  {
+  "monthly_price": NaN,
+  "name": "Cosy flat in old manhattan",
+  "price": "$99.00",
+  "longitude": -73.95991124714553,
+  "summary": "Spacious studio on West 118th. Close to Morning-side Park, Central Park and Riverside Park. In the beautiful Columbia University area. Near the B, C and 1 trains.",
+  "latitude": 40.807689813152315,
+  "weekly_price": NaN,
+  "id": 3924385
+  },
+  {
+  "monthly_price": "$3,290.00",
+  "name": "Huge 1bdrm + office near Central Pk",
+  "price": "$240.00",
+  "longitude": -73.96263394259569,
+  "summary": "Beautiful, classic pre-war Manhattan apartment with sophisticated furnishings and tons of natural light. Spacious 1-bedroom, full dining room, living room, and office. Impeccably clean and airy. Near Columbia, Central Park, Hudson River, subways.",
+  "latitude": 40.806837546883685,
+  "weekly_price": NaN,
+  "id": 4418714
+  }
+  ]
